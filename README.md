@@ -37,10 +37,9 @@ VideoCanvas has two key contributions:
 
 <div>
   <video controls autoplay loop muted playsinline width="100%">
-    <source src="assets/teaser.mp4" type="video/mp4">
+    <source src="https://media.githubusercontent.com/media/KwaiVGI/VideoCanvas/main/assets/teaser.mp4" type="video/mp4">
   </video>
 </div>
-
 
 
 ## 📖 VideoCanvasBench
