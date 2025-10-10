@@ -35,11 +35,10 @@ VideoCanvas has two key contributions:
 - 🛠️ Simple Solution: Our technical innovation leverages In-Context Conditioning with zero-padding for spatial control and Temporal RoPE Interpolation for temporal alignment, achieving frame-precise video generation without fine-tuning VAEs or adding parameters. <br>
 
 
-<div>
-  <video controls autoplay loop muted playsinline width="100%">
-    <source src="https://github.com/KwaiVGI/VideoCanvas/raw/main/assets/teaser.mp4" type="video/mp4">
-  </video>
-</div>
+
+
+https://github.com/user-attachments/assets/c3777c16-0a1e-4cbb-af6f-856f88312317
+
 
 
 ## 📖 VideoCanvasBench
